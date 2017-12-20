@@ -11,7 +11,9 @@ $font-path: "../assets/fonts";
 // the Sass variables found in Ionic's source scss files.
 // To view all the possible Ionic variables, see:
 // http://ionicframework.com/docs/v2/theming/overriding-ionic-variables/
-
+$text-color: #061A23;
+$label-md-text-color: #214E47;
+$background-color:#FEFFFC;
 
 
 
@@ -24,11 +26,11 @@ $font-path: "../assets/fonts";
 // The "primary" color is the only required color in the map.
 
 $colors: (
-  primary:    #488aff,
-  secondary:  #32db64,
-  danger:     #f53d3d,
-  light:      #f4f4f4,
-  dark:       #222
+  primary:    #3B688E,
+  secondary:  #00acac,
+  danger:     #ED6A5A,
+  light:      #FEFFFC,
+  dark:       #061A23
 );
 
 
